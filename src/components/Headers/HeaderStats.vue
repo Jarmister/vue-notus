@@ -7,7 +7,7 @@
         <div class="flex flex-wrap">
           <div class="w-full lg:w-6/12 xl:w-3/12 px-4">
             <card-stats
-              statSubtitle="TRAFFIC"
+              statSubtitle="Data"
               statTitle="350,897"
               statArrow="up"
               statPercent="3.48"
@@ -19,7 +19,7 @@
           </div>
           <div class="w-full lg:w-6/12 xl:w-3/12 px-4">
             <card-stats
-              statSubtitle="NEW USERS"
+              statSubtitle="Requests"
               statTitle="2,356"
               statArrow="down"
               statPercent="3.48"
@@ -31,7 +31,7 @@
           </div>
           <div class="w-full lg:w-6/12 xl:w-3/12 px-4">
             <card-stats
-              statSubtitle="SALES"
+              statSubtitle="Branches"
               statTitle="924"
               statArrow="down"
               statPercent="1.10"
